@@ -28,6 +28,3 @@ X1 is the first step toward a **modular humanoid robotics ecosystem** — where 
 
 Open-source under **MIT License**.
 
----
-
-Sir, do you want me to add a **single-line installation guide** at the bottom (like `git clone ...`) or keep it **purely conceptual and elegant**?
